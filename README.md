@@ -81,5 +81,4 @@ I'm Ananya, a passionate developer who enjoys building clean, responsive, and ac
 > ✨ “Consistency is the key to success — keep learning, keep building.”
 
 
-> ✨ “Consistency is the key to success — keep learning, keep building.”
 
