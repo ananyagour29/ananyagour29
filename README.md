@@ -1,19 +1,33 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Ananya Gour</h1>
 <h3 align="center">🎓 B.Tech Student | 🌐 Frontend Developer (React) | 📊 ML Enthusiast | 💻 C++ Programmer</h3>
 
 ---
 
-🌟 Passionate about building user-friendly web applications and solving real-world problems through code.
+### 🙋‍♀️ About Me
 
-- 🌱 Currently learning **Machine Learning Basics**
-- ⚛️ Skilled in **React, JavaScript, HTML, CSS, and C++**
-- 💬 Ask me about **Frontend Development & React**
-- 👩‍💻 All my projects: [Portfolio Website](https://portfoliowebsite29.netlify.app)
-- 📫 Reach me at: **ananyagour975@gmail.com**
+I'm Ananya, a passionate developer who enjoys building clean, responsive, and accessible web applications. I love combining logic with creativity to create digital experiences that make life easier or more fun!
+
+- 🌱 Currently learning: **Machine Learning Basics**
+- 💻 Comfortable with: **React, JavaScript, HTML, CSS, and C++**
+- 📍 Based in: **India**
+- ✨ Fun Fact: I love designing and creating UI/UX-friendly web apps!
+- 📬 Contact me: **ananyagour975@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
+### 🔨 What I’m Working On
+
+- 🚀 Improving my React and Tailwind CSS skills  
+- 💡 Exploring real-world projects using APIs and Firebase  
+- 🤖 Diving into Machine Learning with Python basics  
+- 🌐 Maintaining my [Portfolio Website](https://portfoliowebsite29.netlify.app)
+
+---
+
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/ananya-gour29" target="blank">
@@ -26,13 +40,15 @@
 
 ---
 
-### 🛠️ Languages & Tools:
+---
+
+### 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -54,10 +70,16 @@
 
 ---
 
+### 📊 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyagour29&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
 > ✨ “Consistency is the key to success — keep learning, keep building.”
 
+
+> ✨ “Consistency is the key to success — keep learning, keep building.”
 
