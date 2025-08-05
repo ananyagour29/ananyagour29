@@ -54,23 +54,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ananyagour29&theme=flat&title=Stars,Commits,Followers,PullRequest,Repositories" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyagour29&show_icons=true&theme=default" alt="Ananya's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyagour29&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
