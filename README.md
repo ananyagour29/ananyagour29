@@ -2,32 +2,35 @@
 
 
 <h1 align="center">Hi 👋, I'm Ananya Gour</h1>
-<h3 align="center">🎓 B.Tech Student | 🌐 Frontend Developer (React) | 📊 ML Enthusiast | 💻 C++ Programmer</h3>
+<h3 align="center">Full Stack Developer | React • Node.js • MongoDB | B.Tech Student</h3>
+
+🚀 I build clean, responsive, and user-friendly full-stack web applications.
 
 ---
 
 ### 🙋‍♀️ About Me
 
-I'm Ananya, a passionate developer who enjoys building clean, responsive, and accessible web applications. I love combining logic with creativity to create digital experiences that make life easier or more fun!
+I'm Ananya — a passionate developer who enjoys turning ideas into fully working projects using modern web technologies.
 
-- 🌱 Currently learning: **Machine Learning Basics**
-- 💻 Comfortable with: **React, JavaScript, HTML, CSS, and C++**
-- 📍 Based in: **India**
-- ✨ Fun Fact: I love designing and creating UI/UX-friendly web apps!
-- 📬 Contact me: **ananyagour975@gmail.com**
+- 🌐 Learning & building **Full Stack (MERN)**
+- 🎨 Strong in **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
+- ⚙️ Exploring **Backend:** Node.js, Express.js, MongoDB  
+- 🔧 Hands-on with tools like **Postman, Git, Firebase**  
+- ✨ Fun Fact: I love designing UI that feels modern and simple  
+
 
 ---
 
 ### 🔨 What I’m Working On
 
-- 🚀 Improving my React and Tailwind CSS skills  
-- 💡 Exploring real-world projects using APIs and Firebase  
-- 🤖 Diving into Machine Learning with Python basics  
-- 🌐 Maintaining my [Portfolio Website](https://portfoliowebsite29.netlify.app)
+- 🚀 Full-stack projects using React + Node + MongoDB  
+- 📱 Creating clean UI/UX using Tailwind CSS  
+- 🔗 Building and testing APIs (Express + Postman)  
+- ⚡ Improving backend fundamentals (Auth, Routing, Database)
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ananya-gour29" target="blank">
@@ -40,45 +43,24 @@ I'm Ananya, a passionate developer who enjoys building clean, responsive, and ac
 
 ---
 
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyagour29&layout=compact&theme=default" alt="Top Languages" />
-</p>
+### 📊 Most Used Languages  
+(Automatically generated by GitHub)
 
 ---
-
-> ✨ “Consistency is the key to success — keep learning, keep building.”
-
-
 
