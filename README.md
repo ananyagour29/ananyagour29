@@ -15,8 +15,7 @@ I'm Ananya — a passionate developer who enjoys turning ideas into fully workin
 - 🌐 Learning & building **Full Stack (MERN)**
 - 🎨 Strong in **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
 - ⚙️ Exploring **Backend:** Node.js, Express.js, MongoDB  
-- 🔧 Hands-on with tools like **Postman, Git, Firebase**  
-- ✨ Fun Fact: I love designing UI that feels modern and simple  
+- 🔧 Hands-on with tools like **Postman, GitHub ,VsCode** 
 
 
 ---
@@ -25,8 +24,7 @@ I'm Ananya — a passionate developer who enjoys turning ideas into fully workin
 
 - 🚀 Full-stack projects using React + Node + MongoDB  
 - 📱 Creating clean UI/UX using Tailwind CSS  
-- 🔗 Building and testing APIs (Express + Postman)  
-- ⚡ Improving backend fundamentals (Auth, Routing, Database)
+- 🔗 Building and testing APIs (Express + Postman) 
 
 ---
 
