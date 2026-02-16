@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ananya Gour</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • MongoDB | B.Tech Student</h3>
+<h3 align="center"> React • Node.js • MongoDB | B.Tech Student</h3>
 
 🚀 I build clean, responsive, and user-friendly full-stack web applications.
 
@@ -39,11 +39,6 @@ I'm Ananya — a passionate developer who enjoys turning ideas into fully workin
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" /> </p>
 ---
 
 
